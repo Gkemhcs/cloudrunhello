@@ -1,0 +1,22 @@
+{
+  "name": "cicdrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gkemhcs/cloudrunhello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gkemhcs/cloudrunhello/issues"
+  },
+  "homepage": "https://github.com/Gkemhcs/cloudrunhello#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
