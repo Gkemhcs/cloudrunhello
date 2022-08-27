@@ -3,5 +3,5 @@ RUN mkdir app
 WORKDIR ./app
 COPY package* /app/
 RUN npm ci
-COPY * *
+COPY * ./
 CMD ["node","file.js"]
