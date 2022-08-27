@@ -1,7 +1,7 @@
 const express=require("express")
 const app=express()
 app.get("/",(req,res)=>{
-res.send("<h1>HELLO WORLD</h1>")
+res.send("<h1>HELLO FRIENDS</h1>")
 })
 
 app.listen(process.env.PORT||8080,()=>{
